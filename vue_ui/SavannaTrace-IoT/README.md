@@ -27,6 +27,7 @@ The Gateway Monitor solves the problem of tracking a LoRa gateway's IP address w
 1. Clone the repository:
 ```bash
 git clone https://github.com/tech-nickk/SavannaTrace-IoT.git
+
 cd SavannaTrace-IoT
 ```
 
@@ -37,7 +38,8 @@ pip install paho-mqtt
 
 3. Install Vue.js dependencies:
 ```bash
-cd vue_ui/SavannaTrace-Iot
+cd vue_ui/SavannaTrace-IoT
+
 npm install
 
 ```
@@ -87,7 +89,7 @@ Add this line:
 ### Running the Vue.js UI
 1. Navigate to the frontend directory:
 ```bash
-cd vue_ui/SavannaTrace-Iot
+cd vue_ui/SavannaTrace-IoT
 ```
 
 2. Start the development server:
