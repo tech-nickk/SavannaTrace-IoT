@@ -59,15 +59,14 @@ TOPIC = "savannaTrace/ip_address"
 UPDATE_INTERVAL = 300
 ```
 
-### Vue.js UI
+### Vue.js UI on Your PC or where you would like to access the remote IP from
 The UI connects to the same MQTT broker and topic by default. If you need to modify these settings, edit them in the Vue component.
 
 ## Usage
 
 ### Running the Python Script on Raspberry Pi
-1. Navigate back to the root directory then to the script directory:
+1. Navigate back to the main directory then to the script directory:
 ```bash
-cd ..
 cd python_script
 ```
 
