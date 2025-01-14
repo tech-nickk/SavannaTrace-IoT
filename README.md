@@ -65,8 +65,9 @@ The UI connects to the same MQTT broker and topic by default. If you need to mod
 ## Usage
 
 ### Running the Python Script on Raspberry Pi
-1. Navigate to the script directory:
+1. Navigate back to the root directory then to the script directory:
 ```bash
+cd ..
 cd python_script
 ```
 
